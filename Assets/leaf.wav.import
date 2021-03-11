@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/leaf.wav-3aef1d93aa9dfb432e8fac9f409a5b83.sample"
+
+[deps]
+
+source_file="res://Assets/leaf.wav"
+dest_files=[ "res://.import/leaf.wav-3aef1d93aa9dfb432e8fac9f409a5b83.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/fireburn.wav-c7c84acd5859d345fcf04bb818b3d2cd.sample"
+
+[deps]
+
+source_file="res://Assets/fireburn.wav"
+dest_files=[ "res://.import/fireburn.wav-c7c84acd5859d345fcf04bb818b3d2cd.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
